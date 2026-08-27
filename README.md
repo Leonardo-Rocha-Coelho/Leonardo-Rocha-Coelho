@@ -30,8 +30,11 @@ Este GitHub é onde registro minha evolução, estudos e projetos desenvolvidos 
 
 ## 🚀 Projetos e estudos
 
-Aqui você encontrará projetos e exercícios que fazem parte da minha evolução em desenvolvimento de sistemas.
+Aqui você encontrará projetos, exercícios e atividades que fazem parte da minha evolução em desenvolvimento de sistemas.
 
-### 🌐 Front-end
+### 🎓 Estudos acadêmicos
 
-- [Estudos de Front-end](https://github.com/Leonardo-Rocha-Coelho/front-end-estudos) — Exercícios e práticas desenvolvidos durante meus estudos de front-end.
+- [Desenvolvimento Front-end para Web](https://github.com/Leonardo-Rocha-Coelho/front-end-estudos) — Estudos e exercícios práticos de desenvolvimento front-end.
+- [Algoritmos e Pensamento Computacional](https://github.com/Leonardo-Rocha-Coelho/algoritmos-e-pensamento-computacional) — Estudos e exercícios de algoritmos e lógica computacional.
+- [Design Profissional](https://github.com/Leonardo-Rocha-Coelho/design-profissional) — Estudos, atividades e projetos relacionados a design.
+- [Modelagem de Banco de Dados](https://github.com/Leonardo-Rocha-Coelho/modelagem-de-banco-de-dados) — Estudos e atividades relacionados à modelagem de dados.
