@@ -21,6 +21,13 @@ Este GitHub é onde registro minha evolução, estudos e projetos desenvolvidos 
 - Desenvolvimento de sistemas
 - Design
 
+## 🎯 Atualmente
+
+- Desenvolvendo minha base em programação e desenvolvimento de sistemas
+- Estudando Python e Java
+- Praticando desenvolvimento front-end
+- Explorando automação, inteligência artificial e análise de dados
+
 ## 🚀 Projetos e estudos
 
 Aqui você encontrará projetos e exercícios que fazem parte da minha evolução em desenvolvimento de sistemas.
