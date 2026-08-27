@@ -1,6 +1,9 @@
-# Olá 
-Estudando desenvolvimento de sistemas, com foco em automação, inteligência artificial, e análise de dados. 
-Aqui compartilho projetos, estudos e experimentos desenvolvidos durante minha evolução em programação. 
+
+# Olá! 
+
+Sou estudante de desenvolvimento de sistemas, construindo minha base em programação e explorando aplicações em **automação, inteligência artificial e análise de dados**.
+
+Este GitHub é onde registro minha evolução, estudos e projetos desenvolvidos ao longo desse processo.
 ## 📚 Tecnologia e estudos 
 
 ### Tecnologias
